@@ -1,0 +1,26 @@
+*{
+    color: rgb(199, 76, 76);
+}
+
+.centralizado 
+ {
+    text-align: center;
+}
+.grande
+{font-size: large;
+    font-weight: bold;
+}
+
+.medio
+{font-size: medium;
+}
+.pequeno
+{font-size: small;
+ }
+ div.centralizado{
+     color: rgb(255, 0, 255);
+}
+
+.grande .medio{
+    font-weight: bold;
+}
